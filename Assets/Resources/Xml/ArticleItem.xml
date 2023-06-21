@@ -1,0 +1,12 @@
+<Article>
+  <item1 name="剑" sprite="UI/Article/Weapon1" type="0" number="1" attack="10" price="13"/>
+  <item2 name="刀" sprite="UI/Article/Weapon2" type="0" number="1" attack="13" price="10"/>
+  <item3 name="铁鞋I" sprite="UI/Article/Shoes1" type="1" number="2" speed="3" price="11"/>
+  <item4 name="珠宝" sprite="UI/Article/Shoes2" type="3" number="1" price="8"/>
+  <item5 name="药丸1" sprite="UI/Article/Drug1" type="5" number="1" price="2"/>
+  <item6 name="药丸2" sprite="UI/Article/Drug2" type="5" number="1" price="4"/>
+  <item7 name="药丸3" sprite="UI/Article/Drug3" type="5" number="1" price="5"/>
+  <item8 name="上衣" sprite="UI/Article/Clothing1" type="2" number="1" def="3" price="11"/>
+  <item9 name="裤子" sprite="UI/Article/Clothing2" type="2" number="5" def="5" price="12"/>
+  <item10 name="帽子" sprite="UI/Article/Hat1" type="4" number="10" hp="10" price="8"/>
+</Article>

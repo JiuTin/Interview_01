@@ -1,0 +1,36 @@
+{
+    "panelArray": [
+        {
+            "type": "MenuPanel",
+            "path": "UI/Panel/MenuPanel"
+        },
+        {
+            "type": "BagPanel",
+            "path": "UI/Panel/BagPanel"
+        },
+        {
+            "type": "TaskPanel",
+            "path": "UI/Panel/TaskPanel"
+        },
+        {
+            "type": "FriendsPanel",
+            "path": "UI/Panel/FriendsPanel"
+        },
+        {
+            "type": "ShopPanel",
+            "path": "UI/Panel/ShopPanel"
+        },
+        {
+            "type": "PlayerPanel",
+            "path": "UI/Panel/PlayerPanel"
+        },
+        {
+            "type": "DialoguePanel",
+            "path": "UI/Panel/DialoguePanel"
+        },
+        {
+            "type": "FirePanel",
+            "path": "UI/Panel/FirePanel"
+        }
+    ]
+}

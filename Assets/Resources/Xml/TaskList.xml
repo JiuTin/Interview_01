@@ -1,0 +1,6 @@
+<TaskList>
+	<Task id="1" describe="击杀在村口徘徊的野怪" taskName="击杀野怪" currentCount="0" targetCount="3" awardSprite="UI/Article/Dollar" awardCount="100"/>
+	<Task id="2" describe="打开Fight,并进入场景1" taskName="进入场景" currentCount="0" targetCount="1" awardSprite="UI/Article/Dollar" awardCount="120"/>
+	<Task id="3" describe="前往指定地点，查看情况" taskName="到达指定地点" currentCount="0" targetCount="3" awardSprite="UI/Article/Dollar" awardCount="200"/>
+	<Task id="4" describe="击杀在指定地点徘徊的野怪" taskName="击杀野怪" currentCount="0" targetCount="3" awardSprite="UI/Article/Dollar" awardCount="300"/>
+</TaskList>
